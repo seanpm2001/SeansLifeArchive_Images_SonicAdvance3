@@ -1,0 +1,2 @@
+Map data (minimap only) taken from:
+https://www.soniccenter.org/maps/sonic_advance_3
